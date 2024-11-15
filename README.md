@@ -1,6 +1,8 @@
-# Python
-Programas feitos em Python.
+# feh-gui
 
+Programa feito em Python.
+
+Interface gráfica para feh.
 
 Ex: 
 
