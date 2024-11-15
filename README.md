@@ -4,6 +4,9 @@ Programa feito em Python.
 
 Interface gráfica para feh.
 
+![](https://github.com/tuxslack/feh-gui/blob/9f59ac1d43ec9884847ba0a1d1033327782ba43d/feh-gui-0.2.png)
+
+
 Ex: 
 
 Como usar o programa feh-gui.py
