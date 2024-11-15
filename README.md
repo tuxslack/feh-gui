@@ -28,10 +28,12 @@ Menu iniciar => Acessórios => feh-gui
 
 
 
-homepage: https://feh.finalrewind.org
-
-
 Testado no Void Linux com OpenBox:
 
 xbps-install -y python3-tkinter <br>
 xbps-install -y python3-Pillow  <br>
+
+
+homepage do feh:   https://feh.finalrewind.org  <br>
+Projeto no github: https://github.com/derf/feh  <br>
+
