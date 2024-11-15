@@ -28,6 +28,8 @@ Menu iniciar => Acessórios => feh-gui
 
 
 
+homepage: https://feh.finalrewind.org
+
 
 Testado no Void Linux com OpenBox:
 
