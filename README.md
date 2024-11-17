@@ -35,7 +35,7 @@ xbps-install -y python3-Pillow  <br>
 
 
 
-O arquivo "install-feh-gui.sh" na pasta feh-gui/usr/local/bin/ ajuda no processo de instalação do programa no sistema.
+O arquivo **install-feh-gui.sh** na pasta feh-gui/usr/local/bin/ ajuda no processo de instalação do programa no sistema.
 
 
 
