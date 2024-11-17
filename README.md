@@ -34,6 +34,12 @@ xbps-install -y python3-tkinter <br>
 xbps-install -y python3-Pillow  <br>
 
 
+
+O arquivo "install-feh-gui.sh" na pasta feh-gui/usr/local/bin/ ajuda no processo de instalação do programa no sistema.
+
+
+
+
 homepage do feh:   https://feh.finalrewind.org  <br>
 Projeto no github: https://github.com/derf/feh  <br>
 
