@@ -42,6 +42,10 @@ O arquivo **install-feh-gui.sh** na pasta feh-gui/usr/local/bin/ ajuda no proces
 <br>
 <br>
 
+Binário **feh-gui** gerado em 02/12/2024 no Void Linux para sistema 64 bit.
+
+
+
 
 homepage do feh:   https://feh.finalrewind.org  <br>
 Projeto no github: https://github.com/derf/feh  <br>
